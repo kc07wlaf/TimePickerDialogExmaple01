@@ -5,6 +5,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+//sample code adopted from:
+//https://neurobin.org/docs/android/android-time-picker-example/
+
+
 public class MainActivity extends AppCompatActivity {
 
     public String selectedTime;
