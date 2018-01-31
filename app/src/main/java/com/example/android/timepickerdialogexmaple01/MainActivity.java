@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 
 //sample code adopted from:
-//https://neurobin.org/docs/android/android-time-picker-example/
+//https://developer.android.com/guide/topics/ui/controls/pickers.html
 
 
 public class MainActivity extends AppCompatActivity {
