@@ -38,10 +38,7 @@ public class TimePickerFragment extends DialogFragment
     }
 
     public void onTimeSet(TimePicker view, int hourOfDay, int minute) {
-        // Do something with the time chosen by the user
 
-        //int selectedHour = hourOfDay;
-        //int selectedMinute = minute;
         String selectedAM_PM;
 
         if (hourOfDay<=11){selectedAM_PM="AM";}
